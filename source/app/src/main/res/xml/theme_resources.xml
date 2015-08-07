@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Theme version="1">
+    <Label value="Your Icon Pack name" />
+    <Wallpaper image="wallpaper_01" />
+    <LockScreenWallpaper image="wallpaper_02" />
+    <ThemePreview image="preview1" />
+    <ThemePreviewWork image="preview2" />
+    <ThemePreviewMenu image="preview1" />
+    <DockMenuAppIcon selector="all_apps_button_icon" />
+
+    <!-- Themed Apps -->
+    <AppIcon
+        name="com.lge.clock/com.lge.clock.AlarmClockActivity"
+        image="andy" />
+    <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
+        image="andy" />
+    <AppIcon
+        name="com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity"
+        image="andy" />
+
+</Theme>

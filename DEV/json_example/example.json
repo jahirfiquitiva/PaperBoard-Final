@@ -1,0 +1,31 @@
+{ 
+"wallpapers": 
+	[ 
+		{
+			"author": "Juan M. Saracho",
+			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesOrange.png",
+			"name": "Orange Circles"
+		},
+		{
+			"author": "Juan M. Saracho",
+			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesPurple.png",
+			"name": "Purple Circles"
+		},
+		{
+			"author": "Juan M. Saracho",
+			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesRed.png",
+			"name": "Red Circles"
+		},
+		{
+			"author": "Jahir Fiquitiva",
+			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesBlue.png",
+			"name": "Blue Lines"
+		},
+		{
+			"author": "Jahir Fiquitiva",
+			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/2MaterialLines/LinesGreen.png",
+			"name": "Green Lines"
+		}
+		 
+	]
+}

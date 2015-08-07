@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Not themed icons background -->
+    <!--
+    <iconback 
+    img1="iconback1"
+    img2="iconback2"
+	img3="iconback3"
+    />
+    -->
+
+    <!-- Overlay for unthemed icons -->
+    <!--
+    <iconupon 
+    img1="iconupon1"
+    />
+	-->
+
+    <!-- Cutter for unthemed icons -->
+    <!--
+    <iconmask
+    img1="iconmask1"
+    />
+ 	-->
+
+    <!-- This scales the images to fit into your iconback -->
+    <scale factor="0.8" />
+
+    <!-- NOVA LAUNCHER STUFF -->
+    <item
+        component=":LAUNCHER_ACTION_APP_DRAWER"
+        drawable="all_apps_button_icon" />
+    <item
+        component=":BROWSER"
+        drawable="andy" />
+    <item
+        component=":SMS"
+        drawable="andy" />
+    <item
+        component=":CALCULATOR"
+        drawable="andy" />
+    <item
+        component=":CALENDAR"
+        drawable="andy" />
+    <item
+        component=":CAMERA"
+        drawable="andy" />
+    <item
+        component=":CLOCK"
+        drawable="andy" />
+    <item
+        component=":CONTACTS"
+        drawable="andy" />
+    <item
+        component=":EMAIL"
+        drawable="andy" />
+    <item
+        component=":GALLERY"
+        drawable="andy" />
+    <item
+        component=":PHONE"
+        drawable="andy" />
+
+
+    <!-- Contacts App -->
+    <item
+        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
+        drawable="andy" />
+
+
+    <!-- Dialer App -->
+    <item
+        component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}"
+        drawable="andy" />
+
+    <!-- E-mail App -->
+    <item
+        component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}"
+        drawable="andy" />
+
+    <!-- Gallery App -->
+    <item
+        component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}"
+        drawable="andy" />
+
+    <!-- Messaging App -->
+    <item
+        component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
+        drawable="andy" />
+
+    <!-- Music App -->
+    <item
+        component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}"
+        drawable="andy" />
+
+
+    <!-- Radio App -->
+    <item
+        component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}"
+        drawable="andy" />
+
+
+    <!-- Settings App -->
+    <item
+        component="ComponentInfo{com.android.development/com.android.development.Development}"
+        drawable="andy" />
+
+    <!-- Other Apps -->
+    <item
+        component="ComponentInfo{jahirfiquitiva.iconpack.fimbo/jahirfiquitiva.iconpack.fimbo.Home}"
+        drawable="fimbo" />
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="andy" />
+    <calendar
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        prefix="andy_" />
+
+</resources>

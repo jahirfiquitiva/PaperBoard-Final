@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- Provide a list of wallpaers -->
+    <string-array name="wallpapers">
+        <item>wallpaper_01</item>
+        <item>wallpaper_02</item>
+    </string-array>
+
+    <!-- This wallpaper will be used when a user applies the theme -->
+    <string name="default_wallpaper">wallpaper_01</string>
+</resources>
