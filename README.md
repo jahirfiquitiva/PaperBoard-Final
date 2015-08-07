@@ -77,7 +77,7 @@ While sample folder includes all the project files from the sample app.
     
 # License
 
-This source is shared under the CreativeCommons Attribution-NonCommercial-ShareAlike license.
+This source is shared under the CreativeCommons Attribution-ShareAlike license.
 
 	Copyright 2015 Jahir Fiquitiva
 
