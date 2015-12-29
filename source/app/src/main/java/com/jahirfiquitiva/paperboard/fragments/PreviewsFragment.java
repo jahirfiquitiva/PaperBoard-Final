@@ -2,6 +2,7 @@ package com.jahirfiquitiva.paperboard.fragments;
 
 import android.os.Build;
 import android.os.Bundle;
+import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.app.FragmentStatePagerAdapter;
@@ -18,6 +19,8 @@ import com.jahirfiquitiva.paperboard.views.SlidingTabLayout;
 import jahirfiquitiva.paperboard.sample.R;
 
 public class PreviewsFragment extends Fragment {
+	
+	private ViewPager mPager;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -27,15 +30,28 @@ public class PreviewsFragment extends Fragment {
         if (toolbar != null)
             toolbar.setTitle(R.string.section_two);
 
-        ViewPager mPager = (ViewPager) root.findViewById(R.id.pager);
+        mPager = (ViewPager) root.findViewById(R.id.pager);
         mPager.setAdapter(new MyPagerAdapter(getActivity().getSupportFragmentManager()));
 
-        SlidingTabLayout mTabs = (SlidingTabLayout) root.findViewById(R.id.tabs);
-        mTabs.setViewPager(mPager);
-        mTabs.setCustomTabColorizer(new SlidingTabLayout.TabColorizer() {
+        TabLayout mTabs = (TabLayout) layout.findViewById(R.id.tabs);
+        mTabs.setupWithViewPager(mPager);
+        mTabs.setTabTextColors(getResources().getColor(R.color.semitransparent_white),
+                getResources().getColor(android.R.color.white));
+        mTabs.setSelectedTabIndicatorColor(getResources().getColor(R.color.accent));
+        mTabs.setOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
             @Override
-            public int getIndicatorColor(int position) {
-                return getResources().getColor(R.color.accent);
+            public void onTabSelected(TabLayout.Tab tab) {
+                mPager.setCurrentItem(tab.getPosition());
+            }
+
+            @Override
+            public void onTabUnselected(TabLayout.Tab tab) {
+
+            }
+
+            @Override
+            public void onTabReselected(TabLayout.Tab tab) {
+
             }
         });
 
