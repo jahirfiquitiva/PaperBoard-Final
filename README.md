@@ -1,6 +1,7 @@
-# NOTE
-#This project won't be longer supported, updated or maintained.
+# DEPRECATED
+# Check my [new icon pack dashboard](https://github.com/jahirfiquitiva/IconShowcase-Dashboard)
 
+--------
 
 # PaperBoard
 
