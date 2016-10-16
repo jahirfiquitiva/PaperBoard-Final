@@ -1,6 +1,8 @@
 # DEPRECATED
 # Check my [new icon pack dashboard](https://github.com/jahirfiquitiva/IconShowcase-Dashboard)
+<a href='https://pledgie.com/campaigns/32739'><img alt='Click here to lend your support to: Support Jahir Fiquitiva education and works and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/32739.png?skin_name=chrome' border='0' ></a>
 
+--------
 --------
 
 # PaperBoard
