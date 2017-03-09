@@ -1,7 +1,16 @@
-# DEPRECATED
+# **DEPRECATED**
 # Check my [new icon pack dashboard](https://github.com/jahirfiquitiva/IconShowcase-Dashboard)
-<a href='https://pledgie.com/campaigns/32739'><img alt='Click here to lend your support to: Support Jahir Fiquitiva education and works and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/32739.png?skin_name=chrome' border='0' ></a>
+<br>
+<p>
+<h4><b>Support my work and get rewards! ;)</b></h4>
+</p>
+<p>
+	<a href="https://www.patreon.com/bePatron?u=5261073" data-patreon-widget-type="become-patron-button"><img height="40" width="204" src="https://s3-us-west-1.amazonaws.com/widget-images/become-patron-widget-medium%402x.png" alt="Support on Patreon"></a><script async src="https://cdn6.patreon.com/becomePatronButton.bundle.js"></script>
+</p>
+<br>
 
+
+--------
 --------
 --------
 
