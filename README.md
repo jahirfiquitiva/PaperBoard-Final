@@ -1,15 +1,15 @@
-# **DEPRECATED**
-# Check my [new icon pack dashboard](https://github.com/jahirfiquitiva/IconShowcase-Dashboard)
-<br>
-<p>
-<h4><b>Support my work and get rewards! ;)</b></h4>
-</p>
-<p>
-	<a href="https://www.patreon.com/bePatron?u=5261073" data-patreon-widget-type="become-patron-button"><img height="40" width="204" src="https://s3-us-west-1.amazonaws.com/widget-images/become-patron-widget-medium%402x.png" alt="Support on Patreon"></a><script async src="https://cdn6.patreon.com/becomePatronButton.bundle.js"></script>
-</p>
-<br>
+# **DEPRECATED/NO LONGER MAINTAINED**
+
+No Maintenance Intended
+This project is no longer actively maintained. It does its job, but there are no plans to extend, change, update or improve it.
+
+Please refer to my [new icon pack dashboard](https://github.com/jahirfiquitiva/IconShowcase-Dashboard).
 
 
+
+
+
+--------
 --------
 --------
 --------
