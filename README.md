@@ -4,7 +4,7 @@
 
 This project is no longer actively maintained. It does its job, but there are no plans to extend, change, update or improve it.
 
-Please refer to my [new icon pack dashboard](https://github.com/jahirfiquitiva/IconShowcase-Dashboard).
+Please refer to my [new icon pack dashboard](https://github.com/jahirfiquitiva/Blueprint).
 
 
 
